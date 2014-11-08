@@ -1,15 +1,9 @@
-OS2Web Fics ESDH Provider
+OS2Web Settings Page
 ==============================
 
 Description
 -----------
-This module provides an implementation of the eDoc ESDH provider.
-
-Dependencies
------------
-- os2web_esdh_provider
-- os2web_adlib_api
-- ctools
+OS2Web settings page in administration. This module adds a dummy settings page as replacement for the os2web_settings module to avoid dependencies on OS2Web core.
 
 Installation
 -----------
